@@ -1,2 +1,5 @@
-# Bluetooth_Connection_Arduino_Android
-Arduino code to connect an Smartphone and an Arduino via Bluetooth
+# Connect an Arduino and a Android via Bluetooth
+=================================================
+
+This code will create a Bluetooth connection with a nearby Arduino board that has been connected with the HC05 Bluetooth module
+
